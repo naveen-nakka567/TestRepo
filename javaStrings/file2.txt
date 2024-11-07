@@ -1,3 +1,5 @@
 my second file
 
 new line has been added
+
+I am happy using git
